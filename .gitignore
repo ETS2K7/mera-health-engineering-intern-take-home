@@ -5,3 +5,4 @@ __pycache__/
 overdue_call_list.csv
 quarantined_patients.csv
 flagged_for_review.csv
+*.zip
