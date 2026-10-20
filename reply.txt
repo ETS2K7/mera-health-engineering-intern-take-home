@@ -2,19 +2,19 @@ Hi Meenakshi,
 
 We’ve put together the overdue diabetes call list and a tool your front desk can open on Monday morning.
 
-**Ready to call (45 patients):**
-- **26 patients** missed a scheduled follow-up appointment.
-- **19 patients** have no upcoming booking and haven’t had a diabetes check within their doctor’s requested timeframe (or the last 3 months).
-- **3 of the 45** (`Geetha Gowda`, `Mohan Hiremath`, `Ganesh Iyengar`) are missing phone numbers in the system—staff should check their paper files.
+Ready to call (45 patients):
+- 26 patients missed a scheduled follow-up appointment.
+- 19 patients have no upcoming booking and haven’t had a diabetes check within their doctor’s requested timeframe (or the last 3 months).
+- 3 of the 45 (Geetha Gowda, Mohan Hiremath, Ganesh Iyengar) are missing phone numbers in the system—staff should check their paper files.
 
-**Removed to prevent distressing or duplicate calls:**
-- **3 patients** who passed away (`D. Rosy`, `Joseph Philip`, `Narayana Moolya`) and **3** who relocated/transferred care.
-- **4 patients** taking Metformin for PCOS (not diabetes).
-- **4 patients** registered twice under different IDs were merged so nobody is called twice.
+Removed to prevent distressing or duplicate calls:
+- 3 patients who passed away (D. Rosy, Joseph Philip, Narayana Moolya) and 3 who relocated/transferred care.
+- 4 patients taking Metformin for PCOS (not diabetes).
+- 4 patients registered twice under different IDs were merged so nobody is called twice.
 
-**Two questions for your doctors before calling 9 additional patients (on a separate tab):**
-1. **7 patients** have high sugar test results on file but no formal diagnosis or prescription yet—should reception call them to review their lab reports?
-2. Should we include **2 maternity (gestational diabetes)** patients overdue for post-delivery sugar checks?
+Two questions for your doctors before calling 9 additional patients (on a separate tab):
+1. 7 patients have high sugar test results on file but no formal diagnosis or prescription yet—should reception call them to review their lab reports?
+2. Should we include 2 maternity (gestational diabetes) patients overdue for post-delivery sugar checks?
 
 Best,
 Team mera.health
